@@ -1,0 +1,612 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=iso-8859-1\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+
+#. Text in function
+#: loop.php:43
+msgid "% Comments"
+msgstr ""
+
+#. Text in function
+#: helper.php:20
+msgid "%1$s at %2$s"
+msgstr ""
+
+#. Text in function
+#: widgets.php:151
+msgid "%s ago"
+msgstr ""
+
+#. Text in function
+#: helper.php:21
+msgid "(Edit)"
+msgstr ""
+
+#. Text in function
+#: loop.php:43
+msgid "0 Comments"
+msgstr ""
+
+#. Text in function
+#: loop.php:43
+msgid "1 Comment"
+msgstr ""
+
+#. Text in echo
+#: 404.php:7
+msgid "404"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "<h2>Add a review</h2>"
+msgstr ""
+
+#. Text in function
+#: comments.php:26 comments.php:37
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:58
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#. Text in function
+#: widgets.php:201
+msgid "@Follow Me"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:238
+msgid "Access Token"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:242
+msgid "Access Token Secret"
+msgstr ""
+
+#. Text in echo
+#: wishlist.php:77
+msgid "Action"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Add Review"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Add Your Review"
+msgstr ""
+
+#. Text in echo
+#: loop.php:16
+msgid ""
+"Apologies, but no results were found for the requested archive. Perhaps "
+"searching will help find a related post."
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Average"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Be the first to review"
+msgstr ""
+
+#. Text in echo
+#: archive.php:33
+msgid "Blog Archives"
+msgstr ""
+
+#. Text in function
+#: post-types.php:1
+msgid "Categories"
+msgstr ""
+
+#. Text in function
+#: post-types.php:1
+msgid "Category"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:530
+msgid "Category (Leave Blank to show from all categories)"
+msgstr ""
+
+#. Text in echo
+#: comments.php:88
+msgid "Comment"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:432
+msgid "Comments"
+msgstr ""
+
+#. Text in echo
+#: comments.php:48
+msgid "Comments are closed."
+msgstr ""
+
+#. Text in echo
+#: widgets.php:230
+msgid "Consumer Key"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:234
+msgid "Consumer Secret"
+msgstr ""
+
+#. Text in function
+#: widgets.php:533
+msgid "Contact Us"
+msgstr ""
+
+#. Text in function
+#: widgets.php:533
+msgid "Contact widget"
+msgstr ""
+
+#. Text in function
+#: archive.php:25
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:61
+msgid "Days"
+msgstr ""
+
+#. Text in function
+#: widgets.php:627
+msgid "Display images from flickr"
+msgstr ""
+
+#. Text in function
+#: widgets.php:533
+msgid "Display latest blog posts on footer"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:69
+msgid "E-mail"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:126
+msgid "E-mail address should contain at least 6 characters"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:126
+msgid "E-mail is required"
+msgstr ""
+
+#. Text in function
+#: post-types.php:1
+msgid "Edit Work"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61 widgets.php:573 comments.php:84
+msgid "Email"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:619
+msgid "Email Address:<br />"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:79
+msgid "Flickr ID:"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Good"
+msgstr ""
+
+#. Text in function
+#: the_breadcrumb.php:1
+msgid "Home"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:68
+msgid "Hours"
+msgstr ""
+
+#. Text in echo
+#: wishlist.php:73
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: wishlist.php:116
+msgid "In Stock"
+msgstr ""
+
+#. Text in echo
+#: comments.php:74
+msgid "Log out"
+msgstr ""
+
+#. Text in echo
+#: comments.php:72
+msgid "Logged in as"
+msgstr ""
+
+#. Text in function
+#: widgets.php:533
+msgid "Maxshop - Contact Form"
+msgstr ""
+
+#. Text in function
+#: widgets.php:627
+msgid "Maxshop - Flickr images"
+msgstr ""
+
+#. Text in function
+#: widgets.php:533
+msgid "Maxshop Footer Blog Posts"
+msgstr ""
+
+#. Text in function
+#: widgets.php:533
+msgid "Maxshop Popular/Latest posts/Last comments"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:578 contact-template.php:73
+msgid "Message"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:127
+msgid "Message is required"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:75
+msgid "Minutes"
+msgstr ""
+
+#. Text in function
+#: archive.php:27
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61 widgets.php:570 contact-template.php:67
+#: comments.php:82
+msgid "Name"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:125
+msgid "Name is required"
+msgstr ""
+
+#. Text in function
+#: comments.php:27 comments.php:38
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:59
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#. Text in echo
+#: loop.php:33
+msgid "No image"
+msgstr ""
+
+#. Text in echo
+#: loop-shop.php:39
+msgid "No products found which match your selection."
+msgstr ""
+
+#. Text in echo
+#: wishlist.php:140
+msgid "No products were added to the wishlist"
+msgstr ""
+
+#. Text in echo
+#: loop.php:14
+msgid "Not Found"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Not that bad"
+msgstr ""
+
+#. Text in echo
+#: search.php:44
+msgid "Nothing Found"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:525
+msgid "Number of Posts to show"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:250
+msgid "Number of Tweets to show"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:84
+msgid "Number of photos:"
+msgstr ""
+
+#. Text in function
+#: wishlist.php:116
+msgid "Out of Stock"
+msgstr ""
+
+#. Text in echo
+#: 404.php:17
+msgid "Page not found"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Perfect"
+msgstr ""
+
+#. Text in function
+#: loop.php:52
+msgid "Permalink to %1$s"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:126
+msgid "Please provide a valid e-mail"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:430
+msgid "Popular"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Primary Navigation"
+msgstr ""
+
+#. Text in echo
+#: wishlist.php:74
+msgid "Product Name"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Rate&hellip;"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:14
+msgid "Rated %s out of 5"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Rating"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:431
+msgid "Recent"
+msgstr ""
+
+#. Text in echo
+#: wishlist.php:78
+msgid "Remove"
+msgstr ""
+
+#. Text in echo
+#: wishlist.php:132
+msgid "Remove this product"
+msgstr ""
+
+#. Text in function
+#: widgets.php:533
+msgid "Retrieve and display popular/latest posts/latest comments."
+msgstr ""
+
+#. Text in echo
+#: 404.php:23
+msgid "Return to previous page"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:14
+msgid "Reviews"
+msgstr ""
+
+#. Text in function
+#: search.php:26
+msgid "Search Results for: %s"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:82
+msgid "Seconds"
+msgstr ""
+
+#. Text in echo
+#: header.php:130
+msgid "Select page"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:583
+msgid "Send"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:75
+msgid "Send message"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:378
+msgid "Show thumbnails"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:151
+msgid "Sorry , Twitter seems down or responds slowly."
+msgstr ""
+
+#. Text in echo
+#: search.php:46
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr ""
+
+#. Text in echo
+#: wishlist.php:76
+msgid "Stock Status"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Submit Review"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:623
+msgid "Success Message:<br />"
+msgstr ""
+
+#. Text in function
+#: widgets.php:533
+msgid "Thank you, e-mail sent."
+msgstr ""
+
+#. Text in echo
+#: 404.php:19
+msgid ""
+"The page you are looking for seems to be missing.Go back, or return to "
+"yourcompany.com to choose a new direction.Please report any broken links to "
+"our team."
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid ""
+"There are no reviews yet, would you like to <a href=\"#review_form\" class="
+"\"inline red-button show_review_form\">submit yours</a>?"
+msgstr ""
+
+#. Text in echo
+#: comments.php:8
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr ""
+
+#. Text in echo
+#: widgets.php:246 widgets.php:520
+msgid "Title"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:74
+msgid "Title:"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:615
+msgid "Title:<br />"
+msgstr ""
+
+#. Text in function
+#: functions.php:1
+msgid "Top Navigation"
+msgstr ""
+
+#. Text in echo
+#: searchform.php:3 header.php:89
+msgid "Type and hit enter"
+msgstr ""
+
+#. Text in echo
+#: wishlist.php:75
+msgid "Unit Price"
+msgstr ""
+
+#. Text in echo
+#: widgets.php:226
+msgid "Username"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Very Poor"
+msgstr ""
+
+#. Text in echo
+#: header.php:98
+msgid "View your shopping cart"
+msgstr ""
+
+#. Text in echo
+#: contact-template.php:71 comments.php:83
+msgid "Website"
+msgstr ""
+
+#. Text in echo
+#: under-construction.php:54
+msgid "Weeks"
+msgstr ""
+
+#. Text in function
+#: archive.php:29
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:61
+msgid "Your Review"
+msgstr ""
+
+#. Text in echo
+#: helper.php:15
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#. Text in function
+#: widgets.php:491
+msgid "on"
+msgstr ""
+
+#. Text in function
+#: widgets.php:487
+msgid "on "
+msgstr ""
+
+#. Text in function
+#: single-product-reviews.php:14
+msgid "out of 5"
+msgstr ""
